@@ -1,4 +1,6 @@
-**  Object Detection: MaskRCNN in Pytorch **
+# Object Detection: MaskRCNN in Pytorch 
+
+
     1 Problem Definition: Object Detection
 RGB ImageàBoundary Boxes of different object (cars, pedestrians and so on) COMP3340 Applied Deep Learning
      2
